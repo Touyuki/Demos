@@ -1,6 +1,9 @@
 過去の業務内容を説明するデモ3点とPythonのGUI練習1点になります。
+
 Java:
+
 1.出金システム紹介用demo  Withdraw(Withdraw_Process.javaを実行)
+
 出金処理の四つ部分を紹介するGUIプログラムです。
 
 初期処理
@@ -31,6 +34,7 @@ Java:
 ![image](https://github.com/Touyuki/Demos/blob/main/Https%20Communication/image/sender.png)
 
 Python:
+
 3.CSVデータからのグラフ作成 graphs from CSV(main.pyを実行)
 
 データの読み込み
@@ -54,6 +58,7 @@ Python:
 ![image](https://github.com/Touyuki/Demos/blob/main/graphs%20from%20CSV/images/tab5.png)
 
 4.サイコロゲーム(3時間で完成した練習作品)  Dice Game(main.pyを実行)
+
 結果が当たった場合はｘ倍の点数をもらう(1:x の場合)、当たらなかった場合は点数がなくなる。点数が０になった場合は終了。
 
 初期状態:
