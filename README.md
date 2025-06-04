@@ -9,11 +9,11 @@ Java:
 初期処理
 
 ![image](https://github.com/Touyuki/Demos/blob/main/Withdraw/image/0.png)
-![image](https://github.com/Touyuki/Demos/blob/main/Withdraw/image/1.png)
+![image](https://github.com/Touyuki/Demos/blob/main/Withdraw/image/2.png)
 
 出金準備
 
-![image](https://github.com/Touyuki/Demos/blob/main/Withdraw/image/2.png)
+![image](https://github.com/Touyuki/Demos/blob/main/Withdraw/image/1.png)
 
 出金指令送信
 
